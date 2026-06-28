@@ -1,10 +1,8 @@
-package june230626;
+package june230626.day2306;
 
-import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Set;
 import java.util.TreeSet;
-import java.util.stream.Collectors;
 
 public class Main23 {
     public static void main(String[] args) {
